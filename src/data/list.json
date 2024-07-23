@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Smoked Salmon Burger",
+        "path": "https://img.taste.com.au/S7Qr6OTv/w720-h480-cfill-q80/taste/2017/05/usechur_off-the-hook_salmon_v2-126823-1.jpg",
+        "duration": 14,
+        "servings": 4,
+        "info": 567,
+        "difficulty": 1
+    },
+    {
+      "name": "Fried Cockroaches",
+      "path": "https://media.istockphoto.com/id/178405193/photo/fried-bugs-for-dessert-locust-cockroach-insects.jpg?s=612x612&w=0&k=20&c=30Leg9drsqGMtFrkoobDBX0KRLoVS6xDtyD1_IQ901M=",
+      "duration": 5,
+      "servings": 1,
+      "info": 120,
+      "difficulty": 1
+    },
+    {
+      "name": "Fugu",
+      "path": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/06/02/20/611803.jpg?quality=75&width=1200&auto=webp",
+      "duration": 25,
+      "servings": 2,
+      "info": 346,
+      "difficulty": 3
+    },
+    {
+      "name": "Cooked Octopus",
+      "path": "https://jesspryles.com/wp-content/uploads/2020/06/grilled-octopus-59-1-scaled.jpg",
+      "duration": 45,
+      "servings": 3,
+      "info": 490,
+      "difficulty": 2
+    }
+]
